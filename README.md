@@ -76,60 +76,7 @@ I build backend systems<br/>that don't break at scale.
 
 <br/>
 
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" /><br/>
-<sub><strong>Go</strong></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br/>
-<sub><strong>Docker</strong></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /><br/>
-<sub><strong>Kubernetes</strong></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br/>
-<sub><strong>AWS</strong></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" /><br/>
-<sub><strong>Azure</strong></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br/>
-<sub><strong>MySQL</strong></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br/>
-<sub><strong>Redis</strong></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br/>
-<sub><strong>MongoDB</strong></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br/>
-<sub><strong>Java</strong></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br/>
-<sub><strong>C++</strong></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" /><br/>
-<sub><strong>Grafana</strong></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br/>
-<sub><strong>Git</strong></sub>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=go,docker,kubernetes,aws,azure,mysql,redis,mongodb,java,cpp,grafana,git&theme=dark" />
 
 </div>
 
