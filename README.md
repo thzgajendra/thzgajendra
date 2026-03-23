@@ -104,11 +104,6 @@ I build backend systems<br/>that don't break at scale.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thzgajendra&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff15&hide_border=true&custom_title=" width="92%" />
 
-<br/>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=thzgajendra&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="85%" />
-
 <br/><br/>
 
 <!-- Snake -->
