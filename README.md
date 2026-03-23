@@ -22,13 +22,6 @@
 
 ---
 
-<br/>
-
-<!-- Tanjiro slicing through code -->
-<img src="https://media1.tenor.com/m/NRDz8xCLzr0AAAAC/tanjiro-kamado-kimetsu-no-yaiba.gif" width="380" />
-
-<br/><br/>
-
 <!-- Hero Statement -->
 <h1>
 I build backend systems<br/>that don't break at scale.
