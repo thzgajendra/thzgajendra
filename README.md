@@ -131,11 +131,6 @@ I build backend systems<br/>that don't break at scale.
 
 <br/>
 
-<!-- Tanjiro pixel art -->
-<img src="https://media1.tenor.com/m/VIVfUnWKdT0AAAAC/tanjiro-pixel-art.gif" width="80" />
-
-<br/>
-
 <h3>Think Different. Build Different.</h3>
 
 <sub>Backend systems that scale. Code that lasts. Problems worth solving.</sub>
