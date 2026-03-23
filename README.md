@@ -1,174 +1,224 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Gajendra%20Malviya&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Cloud%20Native%20Engineer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<br/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+High-Performance+Backend+Systems;Cloud+Infrastructure+%7C+Microservices+%7C+Go;900%2B+DSA+Problems+Solved+%F0%9F%94%A5" alt="Typing SVG" /></a>
+<!-- Clean minimal header — Apple-style big bold text -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Gajendra%20Malviya&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=&descSize=1" />
 
 <br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thzgajendra)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gajendramalviya1512@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/thzgajendra)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thzgajendra)
+<!-- Typing subtitle — sleek, one-liner cycling -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=300&size=24&duration=3500&pause=1200&color=FFFFFFAA&center=true&vCenter=true&repeat=true&width=550&height=45&lines=Backend+Engineer.+Cloud+Native.;Microservices+at+Scale.;900%2B+Problems.+One+Solution+at+a+Time." alt="Typing SVG" /></a>
+
+<br/><br/>
+
+<!-- Minimal social links — Apple-style muted tones -->
+<a href="https://linkedin.com/in/thzgajendra"><img src="https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>&nbsp;&nbsp;
+<a href="mailto:gajendramalviya1512@gmail.com"><img src="https://img.shields.io/badge/-Mail-000?style=flat-square&logo=gmail&logoColor=EA4335" /></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/thzgajendra"><img src="https://img.shields.io/badge/-LeetCode-000?style=flat-square&logo=leetcode&logoColor=FFA116" /></a>&nbsp;&nbsp;
+<a href="https://github.com/thzgajendra"><img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=fff" /></a>
+
+<br/><br/>
+
+---
+
+<br/>
+
+<!-- Hero Statement — big, bold, Apple keynote style -->
+<h1>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+I build backend systems<br/>that don't break at scale.
+</h1>
+
+<p>
+<sub>
+<strong>Go</strong> &nbsp;|&nbsp; <strong>Microservices</strong> &nbsp;|&nbsp; <strong>Cloud Native</strong> &nbsp;|&nbsp; <strong>Distributed Systems</strong>
+</sub>
+</p>
+
+<br/>
 
 </div>
 
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
-
-```go
-package main
-
-type SDE struct {
-    Name     string
-    Role     string
-    Location string
-    Company  string
-}
-
-func main() {
-    me := SDE{
-        Name:     "Gajendra Malviya",
-        Role:     "Backend Developer",
-        Location: "Bangalore, India",
-        Company:  "ZopDev Pvt. Ltd.",
-    }
-
-    skills := map[string][]string{
-        "languages":  {"Go", "C", "C++", "Java"},
-        "databases":  {"MySQL", "Redis", "MongoDB"},
-        "devops":     {"Docker", "Kubernetes", "AWS", "Azure"},
-        "tools":      {"Grafana", "OpenObserve", "Swagger", "Postman"},
-        "concepts":   {"Microservices", "REST APIs", "Cloud-Native", "Performance Optimization"},
-    }
-}
-```
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thzgajendra&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="320" />
-
-- **SDE Intern** at **ZopDev Pvt. Ltd.**
-- Building high-performance **REST APIs in Go**
-- Working with **Microservices**, **Docker** & **Kubernetes**
-- Delivered a flagship **cost-saving recommendation engine**
-- **900+** DSA problems solved across platforms
-- **Rank 150** globally in LeetCode Biweekly Contest 150
-- B.E CSE @ **Chandigarh University** (CGPA: 8.58)
-
-<br clear="both"/>
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
-
+<!-- Floating stats — clean grid, no clutter -->
 <div align="center">
-
-### Languages
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### Tools & Frameworks
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Analytics
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=thzgajendra&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=thzgajendra&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/900+-000?style=for-the-badge&logoColor=white" /><br/>
+<sub><strong>DSA Problems</strong></sub><br/>
+<sup>LeetCode + GFG + HackerRank</sup>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Global_150-000?style=for-the-badge&logoColor=white" /><br/>
+<sub><strong>LeetCode Contest</strong></sub><br/>
+<sup>Biweekly Contest 150</sup>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/8.58_CGPA-000?style=for-the-badge&logoColor=white" /><br/>
+<sub><strong>Chandigarh University</strong></sub><br/>
+<sup>B.E Computer Science</sup>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/98.80%25-000?style=for-the-badge&logoColor=white" /><br/>
+<sub><strong>12th Grade</strong></sub><br/>
+<sup>Science Mathematics</sup>
+</td>
+</tr>
+</table>
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thzgajendra&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area=true&area_color=58a6ff&hide_border=true" width="95%" />
-</div>
-
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Experience
+<br/>
+
+<!-- What I Work With — clean icon grid, Apple product grid style -->
+<div align="center">
+
+<h2>What I Work With</h2>
+
+<br/>
 
 <table>
 <tr>
-<td width="80" align="center">
-<img src="https://img.shields.io/badge/ZopDev-0d1117?style=for-the-badge" />
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" /><br/>
+<sub><strong>Go</strong></sub>
 </td>
-<td>
-<strong>SDE Intern (Backend Developer)</strong> — ZopDev Pvt. Ltd. <br/>
-<sub>June 2025 – Present</sub> <br/><br/>
-<code>Go</code> <code>MySQL</code> <code>Redis</code> <code>Docker</code> <code>Kubernetes</code> <code>AWS</code> <code>Azure</code> <code>GoFr</code> <code>Grafana</code> <code>OpenObserve</code>
-<br/><br/>
-Built high-performance REST APIs, delivered a flagship cost-saving recommendation engine, deployed microservices with Docker/K8s, and optimized database access patterns across distributed services.
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br/>
+<sub><strong>Docker</strong></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /><br/>
+<sub><strong>Kubernetes</strong></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br/>
+<sub><strong>AWS</strong></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" /><br/>
+<sub><strong>Azure</strong></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br/>
+<sub><strong>MySQL</strong></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br/>
+<sub><strong>Redis</strong></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br/>
+<sub><strong>MongoDB</strong></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br/>
+<sub><strong>Java</strong></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br/>
+<sub><strong>C++</strong></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" /><br/>
+<sub><strong>Grafana</strong></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br/>
+<sub><strong>Git</strong></sub>
 </td>
 </tr>
 </table>
 
+</div>
+
+<br/>
+
 ---
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25"> Achievements
+<br/>
 
+<!-- GitHub Analytics — clean dark cards -->
 <div align="center">
 
-| | Achievement |
-|:---:|:---|
-| <img src="https://img.shields.io/badge/900+-FFA116?style=flat-square&logo=leetcode&logoColor=black" /> | **DSA Problems** solved on LeetCode, GFG & HackerRank |
-| <img src="https://img.shields.io/badge/Rank_150-58A6FF?style=flat-square&logo=leetcode&logoColor=white" /> | **Global Rank** in LeetCode Biweekly Contest 150 (Feb 2025) |
-| <img src="https://img.shields.io/badge/NPTEL-Top_Performer-10B981?style=flat-square" /> | **National Level** — Cloud, IoT & Edge ML (IIT Kanpur) |
-| <img src="https://img.shields.io/badge/CGPA-8.58-818CF8?style=flat-square" /> | **B.E CSE** — Chandigarh University (2022–2026) |
-| <img src="https://img.shields.io/badge/12th-98.80%25-F59E0B?style=flat-square" /> | **Science Mathematics** — Senior Secondary |
+<h2>GitHub</h2>
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thzgajendra&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" />&nbsp;&nbsp;&nbsp;
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=thzgajendra&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=ffffff&sideLabels=8B949E&dates=8B949E&currStreakNum=ffffff&sideNums=ffffff" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thzgajendra&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff15&hide_border=true&custom_title=" width="92%" />
+
+<br/>
+
+<!-- Snake contribution animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thzgajendra/thzgajendra/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thzgajendra/thzgajendra/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/thzgajendra/thzgajendra/output/github-snake-dark.svg" width="92%" />
+</picture>
 
 </div>
 
+<br/>
+
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25"> Certifications
+<br/>
 
+<!-- Certifications — clean pill style -->
 <div align="center">
 
-![Meta](https://img.shields.io/badge/Meta-Introduction_to_Database-0668E1?style=for-the-badge&logo=meta&logoColor=white)
-![NPTEL](https://img.shields.io/badge/NPTEL-Cloud_IoT_Edge_ML-FF6B00?style=for-the-badge)
-![NPTEL](https://img.shields.io/badge/NPTEL-Computer_Organization-FF6B00?style=for-the-badge)
+<h2>Certifications</h2>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Meta-Introduction_to_Database-000?style=for-the-badge&logo=meta&logoColor=0668E1" />&nbsp;
+<img src="https://img.shields.io/badge/IIT_Kanpur-Cloud_IoT_&_Edge_ML-000?style=for-the-badge" />&nbsp;
+<img src="https://img.shields.io/badge/IIT_Guwahati-Computer_Organization-000?style=for-the-badge" />
+
+<br/><br/>
+
+<sub>NPTEL Top Performer (National Level) &nbsp;|&nbsp; Coursera Certified</sub>
 
 </div>
 
+<br/>
+
 ---
 
+<br/>
+
+<!-- Footer — minimal, impactful -->
 <div align="center">
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20"> Let's Connect!
+<br/>
+
+<h3>Think Different. Build Different.</h3>
+
+<sub>Backend systems that scale. Code that lasts. Problems worth solving.</sub>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=thzgajendra&color=000&style=flat-square&label=visitors" />
+
+<br/><br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=1&section=footer" width="60%" />
 
 <br/>
 
-**Building scalable backend systems, one microservice at a time.**
+<sub>Designed with precision.</sub>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=thzgajendra&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer" width="100%" />
+<br/><br/>
 
 </div>
