@@ -24,9 +24,13 @@
 
 <br/>
 
+<!-- Tanjiro slicing through code -->
+<img src="https://media1.tenor.com/m/NRDz8xCLzr0AAAAC/tanjiro-kamado-kimetsu-no-yaiba.gif" width="380" />
+
+<br/><br/>
+
 <!-- Hero Statement -->
 <h1>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
 I build backend systems<br/>that don't break at scale.
 </h1>
 
@@ -124,6 +128,11 @@ I build backend systems<br/>that don't break at scale.
 
 <!-- Footer -->
 <div align="center">
+
+<br/>
+
+<!-- Tanjiro pixel art -->
+<img src="https://media1.tenor.com/m/VIVfUnWKdT0AAAAC/tanjiro-pixel-art.gif" width="80" />
 
 <br/>
 
