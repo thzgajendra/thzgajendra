@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<a href="https://gajendramalviya.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=fff" /></a>&nbsp;&nbsp;
+<a href="https://gajendramalviya.me"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=fff" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gajendra-malviya-99226a291/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>&nbsp;&nbsp;
 <a href="mailto:gajendramalviya1512@gmail.com"><img src="https://img.shields.io/badge/-Mail-000?style=flat-square&logo=gmail&logoColor=EA4335" /></a>&nbsp;&nbsp;
 <a href="https://leetcode.com/u/thzgajendra/"><img src="https://img.shields.io/badge/-LeetCode-000?style=flat-square&logo=leetcode&logoColor=FFA116" /></a>&nbsp;&nbsp;
